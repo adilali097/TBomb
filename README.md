@@ -151,7 +151,7 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 - Mail **[scpketer](https://github.com/scpketer)** at scpketer@protonmail.ch
 - Mail **[0n1cOn3](https://github.com/0n1cOn3)** at 0n1cOn3@gmx.ch
 - Ping **Rieltar** at https://t.me/RieltarReborn
-
+- swex  **[Muhamed Ali](https://github.com/adilali097)** athttps://github.com/adilali097
 
 ### Donators:
 
